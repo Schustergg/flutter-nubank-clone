@@ -1,16 +1,11 @@
-# flutter_application_1
+# Nubank Flutter Clone 
 
-A new Flutter project.
 
-## Getting Started
+Nubank is a pioneering Brazilian startup company in the financial services segment, acting as a credit card and fintech operator with operations in Brazil.
+This project is a flutter-developed clone of nubank's mobile app.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1632226370](https://user-images.githubusercontent.com/41591212/134168435-1f28cdbc-19b6-4bbb-99d0-ba830179d809.png)
+![Screenshot_1632226397](https://user-images.githubusercontent.com/41591212/134168447-2f82eabe-452f-4676-9e2a-46d98784be45.png)
+![Screenshot_1632226412](https://user-images.githubusercontent.com/41591212/134168451-18d98eb4-cb76-497f-8404-de28a29eb57e.png)
